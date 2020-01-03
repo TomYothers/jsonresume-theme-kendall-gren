@@ -32,7 +32,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "gravatar": "^1.0.6",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.15",
     "mustache": "^2.2.1"
   },
   "deprecated": false,
